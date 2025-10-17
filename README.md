@@ -339,9 +339,8 @@ P(W₁, W₂, ..., Wₙ) ≈ ∏ P(Wᵢ | Wᵢ₋₂, Wᵢ₋₁)
 
 **Your Name**
 
-- 🔗 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- 💻 GitHub: [@luixnchxs](https://github.com/luixnchxs)
-- 📧 Email: your.email@example.com
+- 🔗 LinkedIn: [Lucas-Oliveira](https://www.linkedin.com/in/lucas-oliveira-498560246/)
+- 💻 GitHub: [@lusknchars](https://github.com/lusknchars)
 
 ---
 
